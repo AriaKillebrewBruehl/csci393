@@ -8,6 +8,7 @@ FreeDos/*
 # will have compiled files and executables
 hello-rust/*/target/
 blog-os/target/*
+aria-os/target/*
 class-rust/*/target/
 
 # Remove Cargo.lock from gitignore if creating an executable, leave it for libraries

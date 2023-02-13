@@ -1,0 +1,1 @@
+/Users/ariakillebrewbruehl/Documents/spring2023/csci393/hello-qemu/target/riscv64gc-unknown-none-elf/debug/reedos: /Users/ariakillebrewbruehl/Documents/spring2023/csci393/hello-qemu/src/entry.rs /Users/ariakillebrewbruehl/Documents/spring2023/csci393/hello-qemu/src/main.rs
